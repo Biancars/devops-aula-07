@@ -1,9 +1,10 @@
 # Requisitos
 
-## Estados e inicializaÁ„o do tabuleiro
+## Estados e inicializa√ß√£o do tabuleiro
 
-* O sistema dever· manter o estado de cada uma das casas de
+* O sistema dever√° manter o estado de cada uma das casas de
 um jogo da velha.
 
-* Cada casa do jogo da velha poder· estar vazia, ocupada
+* Cada casa do jogo da velha poder√° estar vazia, ocupada
 pelo 1o jogador ou ocupada pelo 2o jogador.
+
